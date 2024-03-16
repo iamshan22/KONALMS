@@ -82,7 +82,10 @@
        .imm{
         position: relative;
         bottom: 750px;
-        left: 500px;
+        left: 600px;
+       }
+       .dongo{
+        color: #666;
        }
        #e1{
         width: 600px;
@@ -224,6 +227,49 @@
        }
        .low{
         display: flex;
+       }
+       .vovo{
+        width: 100%;
+        height: 110px;
+        position: relative;
+        left: 10px;
+       }
+       .rick{
+        position: relative;
+        bottom: 90px;
+        left: 600px;
+        color: #fff;
+       }
+       .pop7{
+        color: red;
+
+       }
+       .leto8{
+        display: flex;
+        margin-left: 40px;
+       }
+       .hoho1{
+        position: relative;
+        top: 30px;
+        left: 100px;
+        margin-left: 150px;
+       }
+       .hoho2{
+        position: relative;
+        top: 24px;
+        left: 100px;
+        margin-left: 150px;
+       }
+       .mana{
+        position: relative;
+        bottom: 200px;
+        left: 900px;
+       }
+       .tuf{
+        width: 200px;
+       }
+       .nono{
+        color: #666;
        }
 
        
