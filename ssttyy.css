@@ -233,10 +233,11 @@
         height: 110px;
         position: relative;
         left: 10px;
+        top: 70px;
        }
        .rick{
         position: relative;
-        bottom: 90px;
+        bottom: 50px;
         left: 600px;
         color: #fff;
        }
